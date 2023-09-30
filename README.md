@@ -1,0 +1,2 @@
+# newpeople.py
+new  people
